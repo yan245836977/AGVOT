@@ -7,7 +7,7 @@ This work proposes a novel benchmark called aerial and ground cooperation datase
 ### Visualization of Partial Sequences
 This video visualizes partial sequences (31 video sequences) of AGVOT.
 
-[video(video-8ywS4iWD-1737347419830)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=113858442168642)(image-https://i-blog.csdnimg.cn/img_convert/120c7d2e861f763a58d322b71fd3ee12.jpeg)(title-Partial Sequeces for AGVOT)]
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113858442168642&bvid=BV1gpw1ekEMx&cid=27969719370&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### Partial Cases of AGVOT
 Due to the large size of the original AGVOT dataset, we have prepared part of the AGVOT data (both 1080p and 4k versions) in the following link to make it easier for readers to intuitively understand the directory structure of the dataset, the annotation format, and test their own code. You can down these partrial cases from this [link (Baidu Netdisk)](https://pan.baidu.com/s/1gWPjd_5FGqAqT1g9lX4zIA) (code: ).
